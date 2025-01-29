@@ -1,6 +1,5 @@
 import { useState } from "react"
 import "./index.css"
-// import './App.css'
 
 function App() {
   const [color, setColor] = useState("white")
